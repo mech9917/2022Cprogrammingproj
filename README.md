@@ -10,7 +10,13 @@ Documentation Date : 23. May, 2022
 - https://gaussian37.github.io/vision-opencv-visual_studio_setting/
 - https://www.youtube.com/playlist?list=PLwfJJiO20qkBRXuFGK6Pv2i2Lr9jFa2zP
 
-## Contents
+## Image Processing Steps
+- Gaussian Blurring
+- inRange Masking
+- Canny Edge Detection
+- Hough Transformation
+
+## Code Contents
 ### Arduino Code
   - steering.ino
     - Receive data from VS & control servo
