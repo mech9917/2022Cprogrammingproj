@@ -22,8 +22,10 @@ Documentation Date : 23. May, 2022
     - Receive data from VS & control servo
 ### VS Code
   - SerialClass.h
+    - Private variables, Public functions
   - Serial.cpp
+    - Serial transmitting, receiving library with Arduino
   - main.cpp
-    - image processing & transmitting data to Arduino with Serial communication
+    - Image processing & transmitting data to Arduino with Serial communication
 ## Youtube Presentation
 - link posted here
