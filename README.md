@@ -13,7 +13,11 @@ Documentation Date : 23. May, 2022
 ## Contents
 ### Arduino Code
   - steering.ino
+    - Receive data from VS & control servo
 ### VS Code
   - Serial.h
   - Serial.cpp
   - main.cpp
+    - image processing & transmitting data to Arduino with Serial communication
+## Youtube Presentation
+- link posted here
