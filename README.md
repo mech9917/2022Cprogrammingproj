@@ -19,7 +19,7 @@ Documentation Date : 23. May, 2022
 ## Code Contents
 ### Arduino Code
   - steering.ino
-    - Receive data from VS & control servo
+    - Receive data from VS & Control servo
 ### VS Code
   - SerialClass.h
     - Private variables, Public functions
