@@ -2,7 +2,7 @@
 ## Topic: Image processing & Autonomous driving
 Author|Contact
 ---|---
-Heesung Kim(Senior of Department of Mechanical Engineering, Sogang University)|mech9917@sogang.ac.kr
+Heesung Kim(Senior in Department of Mechanical Engineering, Sogang University)|mech9917@sogang.ac.kr
 
 Documentation Date : 23. May, 2022
 
