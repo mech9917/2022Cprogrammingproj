@@ -27,5 +27,6 @@ Documentation Date : 23. May, 2022
     - Serial transmitting, receiving library with Arduino
   - main.cpp
     - Image processing & transmitting data to Arduino with Serial communication
+  - Other OpenCV 4.5.5 headers included
 ## Youtube Presentation
 - [link posted here](https://www.youtube.com/watch?v=-Kt9kHIiXXU)
